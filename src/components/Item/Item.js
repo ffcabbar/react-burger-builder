@@ -1,6 +1,3 @@
-/**
- * Created by mehmetyurtar on 11/9/19.
- */
 import React from 'react';
 
 function Item(props) {
